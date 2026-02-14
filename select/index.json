@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "未恋",
+  "base_artist": "606号室",
+  "createdAt": "2026-02-14T03:17:23.820764Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "未恋",
+      "artist": "606号室",
+      "has_synced": false,
+      "path": "select/pl_01_未恋_606号室.txt"
+    }
+  ]
+}
